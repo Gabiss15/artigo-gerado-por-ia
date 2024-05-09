@@ -1,6 +1,6 @@
 
 # Acerando o desenvolvimento em Front-End: Métodos essenciais em JavaScript
-> ℹ️ **NOTE:** Esse repositório foi desenvolvido em atividade do Bootcamp Fundamentos de IA da DIO pelo professor Felipe Aguiar.
+> ℹ️ **NOTE:** Esse repositório foi desenvolvido inspirado na atividade do Bootcamp Fundamentos de IA da DIO pelo professor Felipe Aguiar.
 
 <a href= "https://web.dio.me/articles/acelerando-o-desenvolvimento-front-end-metodos-praticos-em-javascript?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
